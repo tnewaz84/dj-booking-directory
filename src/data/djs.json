@@ -1,0 +1,704 @@
+{
+  "djs": [
+    {
+      "id": 1,
+      "name": "Discosapien DJ Services",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Weddings", "Corporate Events"],
+      "website": "https://www.discosapien.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 12,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Ignight Entertainment",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Indian Weddings", "Bollywood", "Fusion Events"],
+      "website": "https://ignightentertainment.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 8,
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "name": "Elite Entertainment",
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "region": "West"
+      },
+      "specialties": ["Luxury Weddings", "Celebrity Events"],
+      "website": "https://eliteentertainment.com",
+      "priceRange": "$$$$",
+      "yearsInBusiness": 15,
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "name": "NYC Beats",
+      "location": {
+        "city": "New York",
+        "state": "NY",
+        "region": "Northeast"
+      },
+      "specialties": ["Urban Weddings", "Club Style Events"],
+      "website": "https://nycbeats.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 10,
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Southern Charm DJs",
+      "location": {
+        "city": "Atlanta",
+        "state": "GA",
+        "region": "Southeast"
+      },
+      "specialties": ["Traditional Weddings", "Country Events"],
+      "website": "https://southerncharmdjs.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 7,
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Miami Vibes Entertainment",
+      "location": {
+        "city": "Miami",
+        "state": "FL",
+        "region": "Southeast"
+      },
+      "specialties": ["Latin Weddings", "Beach Events"],
+      "website": "https://miamivibesent.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 9,
+      "rating": 4.8
+    },
+    {
+      "id": 7,
+      "name": "Chicago Mix Masters",
+      "location": {
+        "city": "Chicago",
+        "state": "IL",
+        "region": "Midwest"
+      },
+      "specialties": ["Urban Weddings", "Corporate Events"],
+      "website": "https://chicagomixmasters.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 11,
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "name": "Seattle Sound",
+      "location": {
+        "city": "Seattle",
+        "state": "WA",
+        "region": "Northwest"
+      },
+      "specialties": ["Alternative Weddings", "Indoor/Outdoor Events"],
+      "website": "https://seattlesound.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 6,
+      "rating": 4.5
+    },
+    {
+      "id": 9,
+      "name": "Austin Groove",
+      "location": {
+        "city": "Austin",
+        "state": "TX",
+        "region": "South"
+      },
+      "specialties": ["Live Music Mix", "Festival Style Events"],
+      "website": "https://austingroove.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 5,
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Vegas Lights DJs",
+      "location": {
+        "city": "Las Vegas",
+        "state": "NV",
+        "region": "West"
+      },
+      "specialties": ["Luxury Weddings", "Casino Events"],
+      "website": "https://vegaslightsdjs.com",
+      "priceRange": "$$$$",
+      "yearsInBusiness": 14,
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "name": "Boston Beat Makers",
+      "location": {
+        "city": "Boston",
+        "state": "MA",
+        "region": "Northeast"
+      },
+      "specialties": ["Traditional Weddings", "Corporate Events"],
+      "website": "https://bostonbeatmakers.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 8,
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "name": "Nashville Notes",
+      "location": {
+        "city": "Nashville",
+        "state": "TN",
+        "region": "South"
+      },
+      "specialties": ["Country Weddings", "Live Music Mix"],
+      "website": "https://nashvillenotes.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 9,
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "name": "San Francisco Sounds",
+      "location": {
+        "city": "San Francisco",
+        "state": "CA",
+        "region": "West"
+      },
+      "specialties": ["Tech Events", "Modern Weddings"],
+      "website": "https://sfsounds.com",
+      "priceRange": "$$$$",
+      "yearsInBusiness": 7,
+      "rating": 4.6
+    },
+    {
+      "id": 14,
+      "name": "Mile High Music",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Mobile DJ", "Weddings"],
+      "website": "https://milehighmusic.fun",
+      "priceRange": "$$",
+      "yearsInBusiness": 5,
+      "rating": 4.5
+    },
+    {
+      "id": 15,
+      "name": "DJ Connection",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Weddings", "Corporate Events"],
+      "website": "https://specials.djconnection.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 10,
+      "rating": 4.6
+    },
+    {
+      "id": 16,
+      "name": "Portland Pulse",
+      "location": {
+        "city": "Portland",
+        "state": "OR",
+        "region": "Northwest"
+      },
+      "specialties": ["Alternative Weddings", "Indie Events"],
+      "website": "https://portlandpulse.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 6,
+      "rating": 4.7
+    },
+    {
+      "id": 17,
+      "name": "Phoenix Beats",
+      "location": {
+        "city": "Phoenix",
+        "state": "AZ",
+        "region": "Southwest"
+      },
+      "specialties": ["Desert Weddings", "Pool Parties"],
+      "website": "https://phoenixbeats.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 8,
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "name": "Detroit Sound",
+      "location": {
+        "city": "Detroit",
+        "state": "MI",
+        "region": "Midwest"
+      },
+      "specialties": ["Urban Weddings", "Club Events"],
+      "website": "https://detroitsound.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 12,
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "name": "JAMMIN' DJs Entertainment",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Weddings", "Corporate Events"],
+      "website": "https://www.myjammindjs.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 15,
+      "rating": 4.8
+    },
+    {
+      "id": 20,
+      "name": "NuFusion Productions",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Weddings", "Special Events"],
+      "website": "https://nufusionproductions.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 7,
+      "rating": 4.7
+    },
+    {
+      "id": 21,
+      "name": "Minneapolis Mix",
+      "location": {
+        "city": "Minneapolis",
+        "state": "MN",
+        "region": "Midwest"
+      },
+      "specialties": ["Indoor Weddings", "Corporate Events"],
+      "website": "https://minneapolismix.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 9,
+      "rating": 4.6
+    },
+    {
+      "id": 22,
+      "name": "Complete Weddings + Events",
+      "location": {
+        "city": "Colorado Springs",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Full Service Events", "Weddings"],
+      "website": "https://completewedo.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 11,
+      "rating": 4.7
+    },
+    {
+      "id": 23,
+      "name": "All Star DJs",
+      "location": {
+        "city": "Colorado Springs",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Weddings", "Corporate Events"],
+      "website": "https://allstardjsco.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 8,
+      "rating": 4.6
+    },
+    {
+      "id": 24,
+      "name": "New Orleans Groove",
+      "location": {
+        "city": "New Orleans",
+        "state": "LA",
+        "region": "South"
+      },
+      "specialties": ["Jazz Fusion", "Cultural Events"],
+      "website": "https://nolagroove.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 10,
+      "rating": 4.8
+    },
+    {
+      "id": 25,
+      "name": "TH Entertainment",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Weddings", "Corporate Events"],
+      "website": "https://www.th-entertainment.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 6,
+      "rating": 4.7
+    },
+    {
+      "id": 26,
+      "name": "KayBay Entertainment",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Weddings", "Private Events"],
+      "website": "https://www.kaybayentertainment.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 5,
+      "rating": 4.5
+    },
+    {
+      "id": 27,
+      "name": "Performance Entertainment",
+      "location": {
+        "city": "Wheat Ridge",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Weddings", "Corporate Events"],
+      "website": "https://topdenverdj.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 9,
+      "rating": 4.6
+    },
+    {
+      "id": 28,
+      "name": "Exclusive Events DJ",
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "region": "Mountain"
+      },
+      "specialties": ["Luxury Events", "Weddings"],
+      "website": "https://exclusiveeventsdj.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 7,
+      "rating": 4.8
+    },
+    {
+      "id": 29,
+      "name": "Philadelphia Fusion",
+      "location": {
+        "city": "Philadelphia",
+        "state": "PA",
+        "region": "Northeast"
+      },
+      "specialties": ["Urban Weddings", "Cultural Events"],
+      "website": "https://phillyfusion.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 8,
+      "rating": 4.6
+    },
+    {
+      "id": 30,
+      "name": "San Diego Sound",
+      "location": {
+        "city": "San Diego",
+        "state": "CA",
+        "region": "West"
+      },
+      "specialties": ["Beach Weddings", "Corporate Events"],
+      "website": "https://sandiegosound.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 11,
+      "rating": 4.7
+    },
+    {
+      "id": 31,
+      "name": "Dallas Beats",
+      "location": {
+        "city": "Dallas",
+        "state": "TX",
+        "region": "South"
+      },
+      "specialties": ["Luxury Weddings", "Corporate Events"],
+      "website": "https://dallasbeats.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 9,
+      "rating": 4.8
+    },
+    {
+      "id": 32,
+      "name": "Orlando Magic DJs",
+      "location": {
+        "city": "Orlando",
+        "state": "FL",
+        "region": "Southeast"
+      },
+      "specialties": ["Theme Park Events", "Destination Weddings"],
+      "website": "https://orlandomagicdjs.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 7,
+      "rating": 4.6
+    },
+    {
+      "id": 33,
+      "name": "Charlotte Mix",
+      "location": {
+        "city": "Charlotte",
+        "state": "NC",
+        "region": "Southeast"
+      },
+      "specialties": ["Southern Weddings", "Corporate Events"],
+      "website": "https://charlottemix.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 6,
+      "rating": 4.5
+    },
+    {
+      "id": 34,
+      "name": "Indianapolis Sound",
+      "location": {
+        "city": "Indianapolis",
+        "state": "IN",
+        "region": "Midwest"
+      },
+      "specialties": ["Traditional Weddings", "Sports Events"],
+      "website": "https://indysound.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 8,
+      "rating": 4.6
+    },
+    {
+      "id": 35,
+      "name": "Milwaukee Beat",
+      "location": {
+        "city": "Milwaukee",
+        "state": "WI",
+        "region": "Midwest"
+      },
+      "specialties": ["Cultural Events", "Corporate Parties"],
+      "website": "https://mkebeat.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 5,
+      "rating": 4.4
+    },
+    {
+      "id": 36,
+      "name": "Salt Lake Sounds",
+      "location": {
+        "city": "Salt Lake City",
+        "state": "UT",
+        "region": "Mountain"
+      },
+      "specialties": ["Mountain Weddings", "Corporate Events"],
+      "website": "https://slcsounds.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 7,
+      "rating": 4.7
+    },
+    {
+      "id": 37,
+      "name": "Kansas City Groove",
+      "location": {
+        "city": "Kansas City",
+        "state": "MO",
+        "region": "Midwest"
+      },
+      "specialties": ["Jazz Events", "Traditional Weddings"],
+      "website": "https://kcgroove.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 9,
+      "rating": 4.6
+    },
+    {
+      "id": 38,
+      "name": "Sacramento Sound",
+      "location": {
+        "city": "Sacramento",
+        "state": "CA",
+        "region": "West"
+      },
+      "specialties": ["Vineyard Weddings", "Corporate Events"],
+      "website": "https://sacsound.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 6,
+      "rating": 4.5
+    },
+    {
+      "id": 39,
+      "name": "Cleveland Mix",
+      "location": {
+        "city": "Cleveland",
+        "state": "OH",
+        "region": "Midwest"
+      },
+      "specialties": ["Rock Weddings", "Corporate Events"],
+      "website": "https://clevelandmix.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 8,
+      "rating": 4.6
+    },
+    {
+      "id": 40,
+      "name": "Pittsburgh Pulse",
+      "location": {
+        "city": "Pittsburgh",
+        "state": "PA",
+        "region": "Northeast"
+      },
+      "specialties": ["Industrial Venues", "Modern Weddings"],
+      "website": "https://pghpulse.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 7,
+      "rating": 4.5
+    },
+    {
+      "id": 41,
+      "name": "Cincinnati Sound",
+      "location": {
+        "city": "Cincinnati",
+        "state": "OH",
+        "region": "Midwest"
+      },
+      "specialties": ["Traditional Weddings", "Corporate Events"],
+      "website": "https://cincysound.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 6,
+      "rating": 4.4
+    },
+    {
+      "id": 42,
+      "name": "Richmond Rhythm",
+      "location": {
+        "city": "Richmond",
+        "state": "VA",
+        "region": "Southeast"
+      },
+      "specialties": ["Historical Venues", "Garden Weddings"],
+      "website": "https://richmondrhythm.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 5,
+      "rating": 4.5
+    },
+    {
+      "id": 43,
+      "name": "Albuquerque Beat",
+      "location": {
+        "city": "Albuquerque",
+        "state": "NM",
+        "region": "Southwest"
+      },
+      "specialties": ["Cultural Events", "Desert Weddings"],
+      "website": "https://abqbeat.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 7,
+      "rating": 4.6
+    },
+    {
+      "id": 44,
+      "name": "Honolulu Harmony",
+      "location": {
+        "city": "Honolulu",
+        "state": "HI",
+        "region": "Pacific"
+      },
+      "specialties": ["Beach Weddings", "Luaus"],
+      "website": "https://honoluluharmony.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 10,
+      "rating": 4.8
+    },
+    {
+      "id": 45,
+      "name": "Anchorage Audio",
+      "location": {
+        "city": "Anchorage",
+        "state": "AK",
+        "region": "Pacific"
+      },
+      "specialties": ["Indoor Events", "Winter Weddings"],
+      "website": "https://anchorageaudio.com",
+      "priceRange": "$$$",
+      "yearsInBusiness": 8,
+      "rating": 4.7
+    },
+    {
+      "id": 46,
+      "name": "Memphis Mix",
+      "location": {
+        "city": "Memphis",
+        "state": "TN",
+        "region": "South"
+      },
+      "specialties": ["Blues Events", "Soul Weddings"],
+      "website": "https://memphismix.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 12,
+      "rating": 4.8
+    },
+    {
+      "id": 47,
+      "name": "Baltimore Beats",
+      "location": {
+        "city": "Baltimore",
+        "state": "MD",
+        "region": "Northeast"
+      },
+      "specialties": ["Harbor Events", "Urban Weddings"],
+      "website": "https://baltimorebeats.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 6,
+      "rating": 4.5
+    },
+    {
+      "id": 48,
+      "name": "St. Louis Sound",
+      "location": {
+        "city": "St. Louis",
+        "state": "MO",
+        "region": "Midwest"
+      },
+      "specialties": ["Traditional Weddings", "Corporate Events"],
+      "website": "https://stlsound.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 9,
+      "rating": 4.6
+    },
+    {
+      "id": 49,
+      "name": "Raleigh Rhythm",
+      "location": {
+        "city": "Raleigh",
+        "state": "NC",
+        "region": "Southeast"
+      },
+      "specialties": ["Southern Weddings", "Tech Events"],
+      "website": "https://raleighrhythm.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 7,
+      "rating": 4.5
+    },
+    {
+      "id": 50,
+      "name": "Providence Pulse",
+      "location": {
+        "city": "Providence",
+        "state": "RI",
+        "region": "Northeast"
+      },
+      "specialties": ["College Events", "Historic Venue Weddings"],
+      "website": "https://providencepulse.com",
+      "priceRange": "$$",
+      "yearsInBusiness": 5,
+      "rating": 4.4
+    }
+  ]
+}
